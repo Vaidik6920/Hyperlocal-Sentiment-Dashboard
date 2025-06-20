@@ -1,1 +1,10 @@
-
+streamlit
+pandas
+snscrape
+vaderSentiment
+geopandas
+folium
+streamlit-folium
+requests
+fpdf
+textblob
